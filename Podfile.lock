@@ -1,0 +1,13 @@
+PODS:
+  - iCarousel (1.8.1)
+  - MBProgressHUD (0.9.1)
+
+DEPENDENCIES:
+  - iCarousel (~> 1.8.1)
+  - MBProgressHUD (~> 0.9.1)
+
+SPEC CHECKSUMS:
+  iCarousel: dace1cb858e3f4dc2614bee3201041247f82feda
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+
+COCOAPODS: 0.37.2
